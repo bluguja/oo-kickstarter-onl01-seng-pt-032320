@@ -4,3 +4,4 @@ class Backer
   initialize(name)
   @name = name
 end
+end
